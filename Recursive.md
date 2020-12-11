@@ -18,7 +18,7 @@ Recursion with Turtle Graphics uses everything already learned with the graphics
 
 
 
-Recursive Turtle Graphics are useful in creating:
+**Recursive Turtle Graphics are useful in creating:**
 
 - Fractals
 - Recursive Figures
