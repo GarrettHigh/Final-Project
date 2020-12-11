@@ -18,7 +18,7 @@ As stated from [Wikipedia](https://en.wikipedia.org/wiki/Scalable_Vector_Graphic
 
 
 
-Scalable Vector Graphics are useful in creating:
+**Scalable Vector Graphics are useful in creating:**
 
 - Graphics
 - Logos
