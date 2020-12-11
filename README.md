@@ -18,7 +18,7 @@ I have a 21 year old brother, Logan, a mom, Melanie, and a dad, Mike. At home, I
 
 
 
-My hobbies include:
+**My hobbies include:**
 
 - Spending Time with My Girlfriend
 - Hanging Out with My Friends
