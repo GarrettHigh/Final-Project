@@ -11,12 +11,18 @@ The [Python Turtle Graphics](https://docs.python.org/3/library/turtle.html) modu
 Turtle Graphics are useful in creating:
 
 - Logos
+
 - Basic Graphics
+
 - Fractals
+
 - Animations
+
 - Games
 
-![Turtle Image](https://davidjlu.github.io/CCUT/CS161/House.png))
+  
+
+![Turtle Image](https://davidjlu.github.io/CCUT/CS161/House.png)
 
 
 
