@@ -1,4 +1,4 @@
-[Home](https://google.com) | [Beginner Python Turtle Graphics](https://google.com) | [Recursive Python Turtle Graphics](https://google.com) | [SVG Graphics](https://google.com) | [Paint Job Estimator](https://google.com)
+[Home](README.md) | [Beginner Python Turtle Graphics](Turtle.md) | [Recursive Python Turtle Graphics](Recursive.md) | [SVG Graphics](SVG.md) | [Paint Job Estimator](Paint.md)
 
 ## Paint Job Estimator
 
@@ -32,7 +32,7 @@ The INFOTC 1040 Paint Job Estimator challenge states: A painting company has det
 
 Below is a screenshot of the program in action.
 
-![Paint Screenshot](https://github.com/GarrettHigh/final/blob/master/Pictures/paint.jpg?raw=true)
+![Paint Screenshot](Pictures/paint.jpg)
 
 
 

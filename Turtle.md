@@ -1,4 +1,4 @@
-[Home](https://google.com) | [Beginner Python Turtle Graphics](https://google.com) | [Recursive Python Turtle Graphics](https://google.com) | [SVG Graphics](https://google.com) | [Paint Job Estimator](https://google.com)
+[Home](README.md) | [Beginner Python Turtle Graphics](Turtle.md) | [Recursive Python Turtle Graphics](Recursive.md) | [SVG Graphics](SVG.md) | [Paint Job Estimator](Paint.md)
 
 ## Beginner Python Turtle Graphics
 
@@ -38,7 +38,7 @@ The INFOTC 1040 Python Turtle Graphics challenge states: In this programming cha
 
 Below is a screenshot of the program in action.
 
-![Image of Screenshot](https://github.com/GarrettHigh/final/blob/master/Pictures/turtle.jpg?raw=true)
+![Image of Screenshot](Pictures/turtle.jpg)
 
 
 

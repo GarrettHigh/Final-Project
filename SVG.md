@@ -1,4 +1,4 @@
-[Home](https://google.com) | [Beginner Python Turtle Graphics](https://google.com) | [Recursive Python Turtle Graphics](https://google.com) | [SVG Graphics](https://google.com) | [Paint Job Esitmator](https://google.com)
+[Home](README.md) | [Beginner Python Turtle Graphics](Turtle.md) | [Recursive Python Turtle Graphics](Recursive.md) | [SVG Graphics](SVG.md) | [Paint Job Estimator](Paint.md)
 
 ## Scalable Vector Graphics
 
@@ -34,7 +34,7 @@ The INFOTC 1000 SVG challenge states: For this assignment, create an HTML 5 web 
 
 Below is a screenshot of the program in action.
 
-![SVG Screenshot](https://github.com/GarrettHigh/final/blob/master/Pictures/svg.jpg?raw=true)
+![SVG Screenshot](Pictures/svg.jpg)
 
 
 
