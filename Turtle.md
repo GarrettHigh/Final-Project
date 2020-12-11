@@ -18,7 +18,7 @@ As stated form the [Python Documentation](https://docs.python.org/3/library/turt
 
 
 
-Turtle Graphics are useful in creating:
+**Turtle Graphics are useful in creating:**
 
 - Logos
 
