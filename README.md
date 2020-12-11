@@ -1,4 +1,4 @@
-[Home](SVG_Graphics.md) | [Beginner Python Turtle Graphics](https://google.com) | [Recursive Python Turtle Graphics](https://google.com) | [SVG Graphics](https://google.com) | [Paint Job Estimator](https://google.com)
+[Home](README.md) | [Beginner Python Turtle Graphics](Turtle.md) | [Recursive Python Turtle Graphics](Recursive.md) | [SVG Graphics](SVG.md) | [Paint Job Estimator](Paint.md)
 
 ## Home
 
