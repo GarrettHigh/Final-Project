@@ -26,13 +26,13 @@ What the assignment required:
 
 #### Programming Project
 
-The INFOTC 1000 Paint Job Estimator challenge states: A painting company has determined that for every 350 square feet of wall space, one gallon of paint and six hours of labor are required. The company charges $62.25 per hour for labor. Write a program called *paintjobestimator.py* that **asks the user to enter the square feet of wall space to be painted and the price of the paint per gallon**. At the end of one estimate the user it to be asked if they would like to perform another estimate. Use the prompt: *Would you like to do another estimate? (y/n)* If the user answers *y*, then the program is to accept input for another estimate. If the user answers with anything other than *y*, the program is to exit.
+The INFOTC 1040 Paint Job Estimator challenge states: A painting company has determined that for every 350 square feet of wall space, one gallon of paint and six hours of labor are required. The company charges $62.25 per hour for labor. Write a program called *paintjobestimator.py* that **asks the user to enter the square feet of wall space to be painted and the price of the paint per gallon**. At the end of one estimate the user it to be asked if they would like to perform another estimate. Use the prompt: *Would you like to do another estimate? (y/n)* If the user answers *y*, then the program is to accept input for another estimate. If the user answers with anything other than *y*, the program is to exit.
 
 
 
 Below is a screenshot of the program in action.
 
-![Paint Screenshot](C:\Users\garbu\Pictures\paint.jpg)
+![Paint Screenshot](https://github.com/GarrettHigh/final/blob/master/Pictures/paint.jpg?raw=true)
 
 
 

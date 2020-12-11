@@ -37,7 +37,7 @@ The INFOTC 1000 About Me challenge states: In this programming challenge you are
 
 Below is a screenshot of the program in action.
 
-![Image of Screenshot](C:\Users\garbu\Pictures\aboutme.jpg)
+![Image of Screenshot](https://github.com/GarrettHigh/final/blob/master/aboutme.jpg?raw=true)
 
 
 
@@ -55,3 +55,4 @@ print("At the end of this semester, I have enjoyed learning about and exploring 
 
 
 *This website was created in Markdown for Garrett High's Introduction to Information Technology class as a final project in the 2020 Fall Semester*
+

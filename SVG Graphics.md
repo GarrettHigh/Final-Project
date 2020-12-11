@@ -4,15 +4,7 @@
 
 #### Overview
 
-[Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics), also known as SVG images, are vector-based graphics in an XML format.
-
-
-
-Scalable Vector Graphics are useful in creating:
-
-- Fractals
-- Recursive Figures
-- Cool Images
+[Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics), also known as SVG images, are vector-based graphics in an XML format. With this project, I had to create a scalable vector graphic in html, and decided to create a really fat frog. The inspiration for this topic comes from my girlfriend who really likes frogs. Learning how to create the graphic in html and seeing it work in the end was very satisfying. I had a lot of fun working on this assignment.
 
 
 
@@ -20,9 +12,17 @@ Scalable Vector Graphics are useful in creating:
 
 
 
-#### History
+#### What It Is
 
-This is filler text about the history of Scalable Vector Graphics.
+As stated from [Wikipedia](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics): "Scalable Vector Graphics (SVG) is an Extensible Markup Language (XML)-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG allows three types of graphic objects: vector graphic shapes such as paths and outlines consisting of straight lines and curves, bitmap images, and text. Graphical objects can be grouped, styled, transformed and composited into previously rendered objects"
+
+
+
+Scalable Vector Graphics are useful in creating:
+
+- Graphics
+- Logos
+- Scalable Images That Do Not Lose Quality
 
 
 
@@ -34,7 +34,7 @@ The INFOTC 1000 SVG challenge states: For this assignment, create an HTML 5 web 
 
 Below is a screenshot of the program in action.
 
-![SVG Screenshot](C:\Users\garbu\Pictures\svg.jpg)
+![SVG Screenshot](https://github.com/GarrettHigh/final/blob/master/Pictures/svg.jpg?raw=true)
 
 
 

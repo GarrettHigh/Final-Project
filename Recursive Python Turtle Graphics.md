@@ -4,7 +4,17 @@
 
 #### Overview
 
-[Recursive Turtle Graphics](https://www.codementor.io/@info658/python-recursion-fun-with-fractals-19ha74wokh) are like normal turtle graphics in python, but they create much more complex and detailed images.
+[Recursive Turtle Graphics](https://www.codementor.io/@info658/python-recursion-fun-with-fractals-19ha74wokh) are like normal turtle graphics in python, but they create much more complex and detailed images. For this assignment, I had to create a Python Turtle Graphic of anything I wanted, but it just had to include recursion. After a lot of contemplation, I finally decided on making a UFO from the recursion that attacks a city on Earth. Once I had the idea made and the picture all planned out, it was a *blast* to write up all of the code to get it to work.
+
+
+
+![Turtle Image](https://prettymathpics.com/wp-content/uploads/2018/12/SierpinskiArrow1.png)
+
+
+
+#### Recursion
+
+Recursion with Turtle Graphics uses everything already learned with the graphics, but in a more complex way.  As stated from [Compucademy](https://compucademy.net/introduction-to-recursion/): "You can use recursion to draw your shapes. Recursion is when a function calls itself with a stopping condition. A famous example of recursion is the 'droste effect', but unlike recursion in programming there is no stopping condition. It keeps going on forever. A recursive function can draw itself"
 
 
 
@@ -16,25 +26,15 @@ Recursive Turtle Graphics are useful in creating:
 
 
 
-![Turtle Image](https://prettymathpics.com/wp-content/uploads/2018/12/SierpinskiArrow1.png)
-
-
-
-#### History
-
-This is filler text about the history of Python Turtle Graphics.
-
-
-
 #### Programming Project
 
-The INFOTC 1000 Recursion and Python Turtle Graphics challenge states: You are to write a Python program that uses recursion and Turtle graphics to draw a picture. What picture is drawn is up to you. I urge you to write a program that generates the most amazing, awesome, cool, intriguing, and mind bending artwork you can. You are to do a screen capture of the picture that is drawn to create an image file that is included with the challenge submission. The purpose of this challenge is to provide experience working with recursion in Python. It also provides experience working with Turtle graphics in Python.
+The INFOTC 1040 Recursion and Python Turtle Graphics challenge states: You are to write a Python program that uses recursion and Turtle graphics to draw a picture. What picture is drawn is up to you. I urge you to write a program that generates the most amazing, awesome, cool, intriguing, and mind bending artwork you can. You are to do a screen capture of the picture that is drawn to create an image file that is included with the challenge submission. The purpose of this challenge is to provide experience working with recursion in Python. It also provides experience working with Turtle graphics in Python.
 
 
 
 Below is a screenshot of the program in action.
 
-![Image of Screenshot](C:\Users\garbu\Pictures\recursive.png)
+![Image of Screenshot](https://github.com/GarrettHigh/final/blob/master/Pictures/recursive.png?raw=true)
 
 
 
