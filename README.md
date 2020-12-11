@@ -37,7 +37,7 @@ The INFOTC 1000 About Me challenge states: In this programming challenge you are
 
 Below is a screenshot of the program in action.
 
-![Image of Screenshot](https://github.com/GarrettHigh/final/blob/master/aboutme.jpg?raw=true)
+![Image of Screenshot](https://user-images.githubusercontent.com/75776745/101853959-288c2000-3b26-11eb-8d89-c75e2a9affb0.jpg)
 
 
 
